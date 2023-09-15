@@ -1,1 +1,3 @@
-# Projeto-Tradutor-2A-GinezProjeto-Tradutor-2A-Ginez
+# Projeto-Tradutor-2A-Ginez
+
+Aula de Tecnologia com Profº Glaubber
